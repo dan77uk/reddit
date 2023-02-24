@@ -4,3 +4,5 @@ A reddit-type clone.
 - Using Supabase as a BAAS
 - PlayWright for E2E testing
 - TailwindCSS for Styling
+
+<!-- Row Level Security (RLS) -->
